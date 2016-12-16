@@ -1,0 +1,6 @@
+framework module Pods_pset6Tests {
+  umbrella header "Pods-pset6Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
